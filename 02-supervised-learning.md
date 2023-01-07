@@ -57,5 +57,5 @@ Light GBM
 
 ## Support Vector Machines
 
-lower gamma, lower complexity
+small gamma, large radius, lower complexity
 smaller C, more restricted model
