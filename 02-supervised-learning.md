@@ -1,18 +1,14 @@
-# Estimators
+# Supervised Machine Learning Algorithms
 
-All machine learning models in scikit-learn are implemented in their own classes, which are called Estimator classes.
-
-# Parameters
+## Parameters
 
 The majority of them are either speed optimizations or for very special use cases.
+
+## Linear Models
 
 $$
 ŷ= w[0] * x[0] + w[1] * x[1] + ... + w[p] * x[p] + b
 $$
-
-# Supervised Machine Learning Algorithms
-
-## Linear Models
 
 ### Linear Regression
 
@@ -36,10 +32,11 @@ L1 regularization. Some coefficients are zero.
 
 ## Naive Bayes Classifiers
 
-- GaussianNB: applied to any continuous data
-- BernoulliNB: binary data
-- MultinomialNB: count data
-  > BernoulliNB and MultinomialNB are mostly used in text data classification.
+GaussianNB: applied to any continuous data
+BernoulliNB: binary data
+MultinomialNB: count data
+
+> BernoulliNB and MultinomialNB are mostly used in text data classification.
 
 ## Decision Tress
 
