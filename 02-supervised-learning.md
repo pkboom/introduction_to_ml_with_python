@@ -42,3 +42,23 @@ L1 regularization. Some coefficients are zero.
   > BernoulliNB and MultinomialNB are mostly used in text data classification.
 
 ## Decision Tress
+
+DecisionTreeRegressor
+DecisionTreeClassifier
+
+## Ensemble
+
+### bagging
+
+random forests
+
+### Boosting
+
+grandient boosting(GBM)
+XGBoost
+Light GBM
+
+## Support Vector Machines
+
+lower gamma, lower complexity
+smaller C, more restricted model
