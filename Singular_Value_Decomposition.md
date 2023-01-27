@@ -1,5 +1,3 @@
-Math markdown: https://en.wikibooks.org/wiki/LaTeX/Mathematics
-
 We can think of a matrix A as a _transformation_ that acts on a vector x by multiplication to produce a new vector Ax.
 
 For a matrix A, only some of the vectors change the magnitude of a vector without changing its direction. These special vectors are called the _eigenvectors_ of A and their corresponding scalar quantity λ is called an _eigenvalue_ of A for that eigenvector. So the eigenvector of an n×n matrix A is defined as a nonzero vector u such that:
@@ -46,9 +44,5 @@ D is an n×n diagonal matrix comprised of the n eigenvalues of A. P is also an n
 
 <image src="Eigendecomposition.webp" width="400">
 
-Now in each term of the eigendecomposition equation $$u_iu_i^Tx$$ gives a new vector which is the orthogonal projection of x onto ui. Then this vector is multiplied by λi. Since λi is a scalar, multiplying it by a vector, only changes the magnitude of that vector, not its direction.
-
 If you have a symmetric matrix, you can use the eigendecomposition method to approximate it with other matrices.
-You can use SVD to do the same with a non-symmetric matrix.
-
-It is important to note that if we have a symmetric matrix, the SVD equation is simplified into the eigendecomposition equation.
+You can use SVD(Single Value Decomposition) to do the same with a non-symmetric matrix.
