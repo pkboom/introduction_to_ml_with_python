@@ -39,3 +39,5 @@ The covariance of X and Y provides a measure of the association between X and Y.
 Based on Eq. 16, the correlation and covariance have the same sign (since standard deviation is always positive). When ρ(X, Y)>0, X and Y are positively correlated and tend to move together, and when ρ(X, Y)<0, they are negatively correlated and tend to move in the opposite direction. If ρ(X, Y)=0, X and Y are said to be uncorrelated.
 
 In summary, the value of ρ(X, Y) provides a measure of the extent to which two random variables X and Y are linearly related. If the values that X and Y take are relatively concentrated around a straight line with a positive slope, then ρ(X, Y) will be close to 1. On the other hand, if these values are relatively concentrated around a straight line with a negative slope, then ρ(X, Y) will be close to −1.
+
+multivariate_normal
