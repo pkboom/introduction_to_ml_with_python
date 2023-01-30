@@ -40,4 +40,11 @@ Based on Eq. 16, the correlation and covariance have the same sign (since standa
 
 In summary, the value of ρ(X, Y) provides a measure of the extent to which two random variables X and Y are linearly related. If the values that X and Y take are relatively concentrated around a straight line with a positive slope, then ρ(X, Y) will be close to 1. On the other hand, if these values are relatively concentrated around a straight line with a negative slope, then ρ(X, Y) will be close to −1.
 
-We can plot these values in a 2-d space. Then
+#### covariance
+
+the covariance of a random vector along two arbitrary vectors doesn’t change by changing the coordinate system.
+
+inverse transform of pca
+https://stackoverflow.com/questions/32750915/pca-inverse-transform-manually
+
+When we only have 2 principal components, the image is blurred
