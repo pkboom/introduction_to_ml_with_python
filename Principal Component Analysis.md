@@ -44,7 +44,4 @@ In summary, the value of ρ(X, Y) provides a measure of the extent to which two 
 
 the covariance of a random vector along two arbitrary vectors doesn’t change by changing the coordinate system.
 
-inverse transform of pca
-https://stackoverflow.com/questions/32750915/pca-inverse-transform-manually
-
-When we only have 2 principal components, the image is blurred
+The reconstruction of the noisy image can remove
