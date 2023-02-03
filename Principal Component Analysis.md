@@ -44,4 +44,10 @@ In summary, the value of ρ(X, Y) provides a measure of the extent to which two 
 
 the covariance of a random vector along two arbitrary vectors doesn’t change by changing the coordinate system.
 
-The reconstruction of the noisy image can remove
+a random variable with a normal distribution is just a linear function of another random variable with a standard normal distribution.
+
+PCA is based on two assumptions. The random vector X that represents our data set is a continuous random vector. there are no missing values in the dataset.
+
+However, as we mentioned before, what we are looking for is the independent features of the dataset. So we want the uncorrelated features to be independent too. This only happens if the dataset has an MVN distribution.
+
+PCA never fails to give an uncorrelated orthogonal basis for our data set. However the random variables represented by this basis are not necessarily independent. If the dataset is sampled from an MVN distribution, the uncorrelated random variable are independent too.
