@@ -7,3 +7,5 @@ If you have such a goal, before building a system to achieve it, you should firs
 
 - how to define and measure success
 - what the impact of a successful solution would be to your overall business or research goals.
+
+> It is best if you can measure the performance of your algorithm directly using a business metric, like increased profit or decreased losses.
