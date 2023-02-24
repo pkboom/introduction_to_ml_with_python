@@ -1,7 +1,6 @@
 ## mglearn
 
-If you get `ImportError: No module named mglearn` you can try to install mglearn into your python environment using
-the command `pip install mglearn` in your terminal or `!pip install mglearn` in Jupyter Notebook.
+If you get `ImportError: No module named mglearn` you can try to install mglearn into your python environment using the command `pip install mglearn` in your terminal or `!pip install mglearn` in Jupyter Notebook.
 
 ## Errata
 
