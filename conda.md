@@ -142,3 +142,5 @@ jupyter kernelspec remove play_environment
 ```sh
 jupyter kernelspec list
 ```
+
+https://www.activestate.com/resources/quick-reads/how-to-manage-python-dependencies-with-conda/
