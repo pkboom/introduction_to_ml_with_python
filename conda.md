@@ -2,7 +2,7 @@
 
 ```sh
 # example
-$ conda create -n <new_env> conda create -n titanic -c conda-forge ipykernel numpy pandas matplotlib seaborn missingno nb_black
+$ conda create -n titanic -c conda-forge ipykernel numpy pandas matplotlib seaborn missingno nb_black
 ```
 
 Conda environments contain a specified collection of packages, language agnostic, allowing you to manage Python as well as R packages.
