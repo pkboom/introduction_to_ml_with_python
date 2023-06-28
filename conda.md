@@ -16,7 +16,7 @@ ipykernel: IPython kernel for Jupyter. As of IPython 4.0, the language-agnostic 
 ```sh
 # Create an environment containing scikit-learn with a specific python version
 # -c: Additional channel to search for packages.
-conda create -n <env_name> [-c conda-forge scikit-learn] [python=3.6]
+conda create -n <env_name> [-c conda-forge scikit-learn] ipykernel [python=3.6]
 # create the new environment without asking for confirmation
 conda create --name play_environment pandas jupyter ipykernel python=3.7 pytorch pandas numpy=1.16 -y
 
